@@ -1,5 +1,7 @@
-# Machine Learning for Biochemical Engineering
+# CHG 4360-C (Fall 2026)
 
-Reproducible Python machine learning environment for biochemical engineering applications using Conda, Git, NumPy, pandas, SciPy, scikit-learn, Matplotlib, and PyTorch.
+## Machine Learning Applied to Biochemical Engineering
 
-This is my first commit.
+### Environment setup
+
+This is my second commit.
